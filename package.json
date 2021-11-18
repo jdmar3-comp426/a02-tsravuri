@@ -1,0 +1,22 @@
+{
+  "name": "a02",
+  "version": "1.0.0",
+  "description": "CSS Frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tsravuri: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@github.com/jdmar3-comp426/a02-tsravuri.git"
+  },
+  "author": "Tejas Sai Ravuri",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-tsravuri/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-tsravuri#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
+}
